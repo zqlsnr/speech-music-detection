@@ -1,0 +1,9 @@
+librosa
+soundfile
+tensorboard
+tensorboard-data-server
+tensorboard-plugin-wit
+tensorflow==2.9.0
+tensorflow-estimator
+tensorflow-tensorboard
+tqdm
